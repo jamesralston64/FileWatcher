@@ -1,0 +1,10 @@
+Directory Path C:\Users\james\Documents
+File: C:\Users\james\Documents\testing for the last time.txt Renamed
+File: C:\Users\james\Documents\testing12.txt Deleted
+File: C:\Users\james\Documents\New Text Document.txt Created
+File: C:\Users\james\Documents\New Text Document.txt Changed
+File: C:\Users\james\Documents\New Text Document.txt Changed
+File: C:\Users\james\Documents\New Text Document.txt Changed
+Directory Being Watched C:\Users\james\Documents
+File: C:\Users\james\Documents\testing.txt Renamed
+File: C:\Users\james\Documents\testing.txt Deleted

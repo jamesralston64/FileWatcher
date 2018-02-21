@@ -1,0 +1,4 @@
+File: C:\Users\james\Documents\New Text Document.txt Created
+File: C:\Users\james\Documents\New Text Document.txt Changed
+File: C:\Users\james\Documents\dumb.txt Renamed
+File: C:\Users\james\Documents\great greatg re.txt Deleted
